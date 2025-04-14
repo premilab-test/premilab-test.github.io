@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Qiufeng Wang"
 description              : &description "personal description"
 url                      : https://qiufeng-wang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "https://scholar.xjtlu.edu.cn/en/persons/QiufengWang" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qiufeng-wang/qiufeng-wang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,7 +22,7 @@ repository               : "qiufeng-wang/qiufeng-wang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_photo.png"
+  avatar           : "my_photo.jpg"
   name             : "Qiufeng Wang"
   pronouns         : # example: "she/her"  
   bio              : "Professor at Xi'an Jiaotong-Liverpool University"
