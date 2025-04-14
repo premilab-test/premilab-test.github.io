@@ -22,7 +22,7 @@ repository               : "qiufeng-wang/qiufeng-wang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_photo.jpg"
+  avatar           : "my_photo.png"
   name             : "Qiufeng Wang"
   pronouns         : # example: "she/her"  
   bio              : "Professor at Xi'an Jiaotong-Liverpool University"
