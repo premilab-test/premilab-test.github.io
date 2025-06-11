@@ -20,6 +20,7 @@ See full publications at my [Google Scholar](https://scholar.google.com/citation
 2.	Jiajian Zhang, Fangyu Wu, Hai Jiang, Qiufeng Wang, Genlang Chen, Guangliang Cheng, Eng Gee Lim, Keqin Li, AlignMalloc: Warp-Aware Memory Rearrangement Aligned with UVM Prefetching for Large-Scale GPU Dynamic Allocations, IEEE Transactions on Parallel and Distributed Systems, 2025
 3.	Hui Xu, Qiu-Feng Wang, Zhenghao Li, Yu Shi,Xiang-Dong Zhou. TextTriangle: an end-to-end textspotter with piecewise linear alignment. IJDAR (2025)
 4.	Xiaojiang He, Yanjie Fang, Nan Xiang, Zuhe Li, Qiufeng Wang, Chenguang Yang, Hao Wang, Yushan Pan, Text-Guided Multi-Level Interaction and Multi-Scale Spatial-Memory Fusion for Multimodal Sentiment Analysis, Neurocomputing, Volume 626, 2025, 129532.
+
 ## Conference Papers
 1. Zihao Zhou, Shudong Liu, Maizhen Ning, Wei Liu, Jindong Wang, Derek F. Wong, Xiaowei Huang, Qiufeng Wang*, Kaizhu Huang, Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist, ICLR 2025.
 2.	Maizhen Ning, Zihao Zhou, Qiufeng Wang*, Xiaowei Huang, Kaizhu Huang, GNS: Solving Plane Geometry Problems by Neural-Symbolic Reasoning with Multi-Modal LLMs, AAAI 2025 (oral)
@@ -39,6 +40,7 @@ See full publications at my [Google Scholar](https://scholar.google.com/citation
 6.	Jianan Ye, Yijie Hu, Xi Yang, Qiu-Feng Wang, Chao Huang, Kaizhu Huang, SaliencyCut: Augmenting plausible anomalies for anomaly detection. Pattern Recognit. 153: 110508 (2024)
 7.	Yijie Hu, Bin Dong, Kaizhu Huang, Lei Ding, Wei Wang, Xiaowei Huang, Qiu-feng Wang, Scene Text Recognition via Dual-path Network with Shape-driven Alignment, ACM Transactions on Multimedia Computing, Communications, and Applications, 20(4): 107:1-107:20 (2024). https://dl.acm.org/doi/10.1145/3633517 
 8.	Fangyu Wu, Qiufeng Wang, Zhao Wang, Siyue Yu, Yushi Li, Bailing Zhang,  Eng Gee Lim, ITContrast: contrastive learning with hard negative synthesis for image-text matching,  Visual Computer (2024). Published 2024-02-15, https://doi.org/10.1007/s00371-024-03274-w
+
 ## Conference Papers
 1.	Zhaorui Tan, Xi Yang, Qiufeng Wang, Anh Nguyen, Kaizhu Huang, Interpret Your Decision: Logical Reasoning Regularization for Generalization in Visual Classification, NeurlPS 2024.
 2.	Wuwei Ma, Yushi Li, Qiufeng Wang, Xiaowei Huang, Kaizhu Huang, 3D Point Cloud Completion with Component Guidance, ICONIP 2024
@@ -61,6 +63,7 @@ See full publications at my [Google Scholar](https://scholar.google.com/citation
 1.	Zhaorui Tan, Xi Yang, Zihan Ye, Qiufeng Wang, Yuyao Yan, Anh Nguyen, Kaizhu Huang, Semantic Similarity Distance: Towards better text-image consistency metric in text-to-image generation. Pattern Recognition. 144: 109883 (2023)
 2.	Zixian Su, Kai Yao, Xi Yang, Qiufeng Wang, Yuyao Yan, Jie Sun and Kaizhu Huang, Mind The Gap: Alleviating Local Imbalance for Unsupervised Cross-Modality Medical Image Segmentation, IEEE Journal of Biomedical and Health Informatics, 27(7): 3396-3407 (2023).
 3.	Jing Li, Qiu-Feng Wang*, Kaizhu Huang*, Xi Yang, Rui Zhang, John Y. Goulermas, Towards Better Long-Tailed Oracle Character Recognition with Adversarial Data Augmentation, 21 March 2023, 109534, Pattern Recognition, https://doi.org/10.1016/j.patcog.2023.109534
+
 ## Conference Papers
 1.	Yiming Lin, Xiao-Bo Jin, Qiufeng Wang, Kaizhu Huang, Context Does Matter: End-to-end Panoptic Narrative Grounding with Deformable Attention Refined Matching Network, ICDM 2023.
 2.	Huiru Shao, Kaizhu Huang, Wei Wang, Xiaowei Huang, Qiufeng Wang, Progressive Supervision for Tampering Localization in Document Images, ICONIP 2023.
@@ -99,12 +102,15 @@ See full publications at my [Google Scholar](https://scholar.google.com/citation
 # 2021
 ## Journal Papers
 1.	Mengkai Ma, Qiu-Feng Wang*, Shan Huang, Shen Huang, Yannis Goulermas, Kaizhu Huang, Residual attention-based multi-scale script identification in scene text images, Neurocomputing, Vol. 421, pp. 222- 233, 2021, January, 15th, 
+
 ## Conference Papers
 1.	Maizhen Ning, Qiu-Feng Wang, Kaizhu Huang, Xiaowei Huang, A Segment-Based Layout Aware Model for Information Extraction on Document Images, The 28th International Conference on Neural Information Processing, ICONIP 2021, December 8-12, Bali, Indonesia. PP. 757-765
 2.	Zhiqiang Gao, Shufei Zhang, Kaizhu Huang, Qiu-Feng Wang, Chaoliang Zhong, Gradient Distribution Alignment Certificates Better Adversarial Domain Adaptation, 2021 IEEE/CVF International Conference on Computer Vision (ICCV), 2021, October 11-17, pp. 8917-8926, doi: 10.1109/ICCV48922.2021.00881.
 3.	Shufei Zhang, Zhuang Qian, Kaizhu Huang, Qiufeng Wang, Rui Zhang, Xinping Yi, Towards Better Robust Generalization with Shift Consistency Regularization, Proceedings of the 38th International Conference on Machine Learning (ICML), PMLR 139:12524-12534, 18-24 Jul. 2021, Virtual.
 4.	Jing Li, Qiu-Feng Wang, Rui Zhang, Kaizhu Huang, Mix-Up Augmentation for Oracle Character Recognition with Imbalanced Data Distribution, Proc. 16th International Conference on Document Analysis and Recognition (ICDAR) 2021, pp. 237 – 251, September 5 – 10, Lausanne, Switzerland.
 5.	Qi Lyu, Qiu-Feng Wang, Kaizhu Huang, High-Resolution Virtual Try-On Network with Coarse-to-Fine Strategy, 5th International Conference on Machine Vision and Information Technology (CMVIT 2021), 25th to 28th February 2021, Auckland, New Zealand, Journal of Physics Conference Series 1880(1):012009, DOI: 10.1088/1742-6596/1880/1/012009
+
+
 
 
 # 2020 and previous to 2020
