@@ -9,7 +9,6 @@ toc: true
 See full publications at my [Google Scholar](https://scholar.google.com/citations?user=qj66yXAAAAAJ&hl=en).
 
 
-
 {% include toc %}
 
 <!-- # Preprint -->
