@@ -5,9 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">Full publications at <a href="{{site.author.googlescholar}}">my Google Scholar</a>.</div>
-{% endif %}
+See full publications at my [Google Scholar](https://scholar.google.com/citations?user=qj66yXAAAAAJ&hl=en).
+
+
+
+{% include toc %}
+
+<!-- # Preprint -->
+
+
+
 
 {% include toc %}
 
