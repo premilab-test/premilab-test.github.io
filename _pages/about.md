@@ -26,9 +26,7 @@ His research has been supported by both government and industry, including NSFC 
 
 Openning Positions
 =====
-Full scholarship Ph.D. positions avaliable.
-
-Please email me with a copy of your CV if you are interested in the above opportunities. 
+Full scholarship Ph.D. positions avaliable. Please email me with a copy of your CV if you are interested in the above opportunities. For more informatino pleaes check the [Opportunities](/opportunities/) page.
 
 
 News
