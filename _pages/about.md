@@ -7,15 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Qiufeng Wang, Professor, the Head of Department of Intelligent Science at School of Advanced Technology, and Deputy Dean of Academy of Artificial Intelligence (AOA), in Xi’an Jiaotong-Liverpool University (XJTLU). He received the Ph.D degree in Pattern Recognition and Intelligence Systems from Institute of Automation, Chinese Academy of Sciences (CASIA) in July 2012, and won Presidential Scholarship of Chinese Academy of Sciences. During 2012 to 2013, he worked as an Assistant Professor at the National Laboratory of Pattern Recognition (NLPR) in CASIA . During 2013 to 2017, he worked at Microsoft and joined in XJTLU in Feb. 2017. nbsp;His research interests include pattern recognition, machine learning, and language modeling, more specially, the document analysis and recognition. Dr. Wang has published 70+ papers, including IEEE T-PAMI, and published one book about deep learning in Springer. His research has been supported by both government and industry, including NSFC young programme, NSFC general programme, and CCF-Tencent.
-
-
-**Research interests**
-
-* Math Reasoning
-* Document Analysis and Recognition
-* Pattern Recognition
-* Computer Vision
+Dr. Qiufeng Wang, Professor, the Head of Department of Intelligent Science at School of Advanced Technology, and Deputy Dean of Academy of Artificial Intelligence (AOA), in Xi’an Jiaotong-Liverpool University (XJTLU). 
+He received the Ph.D degree in Pattern Recognition and Intelligence Systems from Institute of Automation, Chinese Academy of Sciences (CASIA) in July 2012, and won Presidential Scholarship of Chinese Academy of Sciences.
+During 2012 to 2013, he worked as an Assistant Professor at the National Laboratory of Pattern Recognition (NLPR) in CASIA . 
+During 2013 to 2017, he worked at Microsoft and joined in XJTLU in Feb. 2017. 
+His research interests include pattern recognition, machine learning, and language modeling, more specially, the document analysis and recognition. 
+Dr. Wang has published 70+ papers, including IEEE T-PAMI, and published one book about deep learning in Springer. 
+His research has been supported by both government and industry, including NSFC young programme, NSFC general programme, and CCF-Tencent.
 
 **Experience**
 
@@ -25,11 +23,16 @@ Dr. Qiufeng Wang, Professor, the Head of Department of Intelligent Science at Sc
 * Engineer, Microsoft, 2013-2017
 * Assistant Professor, Institute of automation, Chinese Academy of Sciences, 2012-2013
 
-**Education**
-* Ph.D. , Institute of Automation, Chinese Academy of Sciences, - 2012
-* B.S, Computer Science, Nanjing University of Science and Technology, 2006
+
+Openning Positions
+=====
+Full scholarship Ph.D. positions avaliable.
+
+Please email me with a copy of your CV if you are interested in the above opportunities. 
+
 
 News
 ======
+* May 2025: Welcome Dr. Jindong Wang giving talk at XJTLU.
 * Apr 2025: xxx papers has been accepted to xxxx.
 * Apr 2025: xxx papers has been accepted to xxxx.
