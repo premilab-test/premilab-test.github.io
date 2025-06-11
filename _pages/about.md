@@ -24,13 +24,13 @@ His research has been supported by both government and industry, including NSFC 
 * Assistant Professor, Institute of automation, Chinese Academy of Sciences, 2012-2013
 
 
-Openning Positions
+Openning Ph.D. Positions
 =====
-Full scholarship Ph.D. positions avaliable. Please email me with a copy of your CV if you are interested in the above opportunities. For more informatino pleaes check the [Opportunities](/opportunities/) page.
+Full scholarship Ph.D. positions avaliable. Please email me with a copy of your CV if you are interested in the above opportunities. For more informatino pleaes check the [PhD Recruitment](/PhD Recruitment/) page.
 
 
 News
 ======
-* May 2025: Welcome Dr. Jindong Wang giving talk at XJTLU.
-* Apr 2025: xxx papers has been accepted to xxxx.
-* Apr 2025: xxx papers has been accepted to xxxx.
+* May 2025: We welcome Dr. Jindong Wang to XJTLU for a guest talk.
+* Oct 2025: 1 paper has been accepted to ICLR 2025.
+* Nov 2024: 3 papers has been accepted to AAAI 2025 (2 Oral 1 Poster).

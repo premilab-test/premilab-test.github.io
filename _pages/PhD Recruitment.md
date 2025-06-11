@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Opportunities"
-permalink: /opportunities/
+title: "PhD Recruitment"
+permalink: /PhD Recruitment/
 author_profile: true
 toc: false
 ---
