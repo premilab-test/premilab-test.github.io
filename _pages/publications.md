@@ -8,16 +8,6 @@ author_profile: true
 See full publications at my [Google Scholar](https://scholar.google.com/citations?user=qj66yXAAAAAJ&hl=en).
 
 
-
-{% include toc %}
-
-<!-- # Preprint -->
-
-
-
-
-{% include toc %}
-
 <!-- # Preprint -->
 
 # 2025
@@ -27,4 +17,4 @@ See full publications at my [Google Scholar](https://scholar.google.com/citation
 
 
 # 2024
-
+1. xxx
