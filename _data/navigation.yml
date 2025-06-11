@@ -11,18 +11,20 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Research"
     url: /research/    
+    
+  - title: "Students"
+    url: /students/
     
   - title: "PhD Recruitment"
     url: /PhD Recruitment/
         
-  - title: "Students"
-    url: /students/
-    
+
+  - title: "Activities"
+    url: /activities/    
+
+
   # - title: "CV"
   #   url: /cv/
     
