@@ -7,6 +7,7 @@ toc: false
 ---
 
 <!-- {% include toc %} -->
+---
 
 # PhD Openings at PremiLab, Xi'an Jiaotong-Liverpool University (XJTLU)  
 (Joint PhD degree with the University of Liverpool, UK)
