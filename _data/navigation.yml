@@ -20,8 +20,8 @@ main:
   - title: "PhD Recruitment"
     url: /PhD Recruitment/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Students"
+    url: /students/
     
   # - title: "CV"
   #   url: /cv/

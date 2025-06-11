@@ -15,7 +15,7 @@ My research includes pattern recognition, machine learning, and language modelin
 
 # LLM Math Reasoning
 We have a research group focus on the Math Reasoning of LLM and MLLMs. Such as math word problems solving, plane geometry problems solving and other math related tasks.
-For more informaiton please check our the [Premilab-Math](https://premilab-math.github.io).
+For more informaiton please check the [Premilab-Math](https://premilab-math.github.io).
 
 
 <!-- <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/GelTip.jpeg" alt="...">
